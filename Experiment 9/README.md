@@ -46,8 +46,8 @@ for i in range(25):
 # Set timeline
 bpy.context.scene.frame_end = 200
 
-
 Run → debris falls and bounces like solid rocks.
+
 
 🟠 Part 2 – Semi-Rigid Debris (hard fall + slight wobble)
 
@@ -118,3 +118,5 @@ scene = bpy.context.scene
 scene.frame_end = 200
 scene.rigidbody_world.steps_per_second = 240
 scene.rigidbody_world.solver_iterations = 20
+
+Run → debris falls and bounces like semi-rigid debris.
