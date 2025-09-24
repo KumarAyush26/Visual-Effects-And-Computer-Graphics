@@ -62,3 +62,30 @@ Environment design with terrain, foliage, fire, and smoke.
 Motion tracking for integrating 3D objects into live video footage.
 
 Projects structured for easy exploration and modification.
+
+Getting Started
+
+Clone the repository:
+
+git clone https://github.com/yourusername/YourRepoName.git
+
+
+Open individual project folders in Unity or Blender.
+
+Explore scripts, particle systems, and scene setups.
+
+Folder Structure (Example)
+/Blender
+    /Rigid_Debris
+    /SemiRigid_Debris
+    /Motion_Tracking
+    /nParticle_Swarms
+/Unity
+    /nParticle_Swarms_Bubbles
+    /Foliage_Fire_Smoke
+    /2D_Running_Game
+README.md
+
+Outcome
+
+This repository showcases Group 6’s collaborative work in combining game development, visual effects, and interactive simulations, demonstrating practical skills in Unity, Blender, Python scripting, and real-time physics/particle systems.
