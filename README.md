@@ -89,6 +89,10 @@ Follow the included instructions or project files to view the simulations.
 
 🛠️ Software & Tools
 
-Unity 3D – Particle Systems, Paint Effects, Expressions
+Unity 3D – Particle Systems, Paint Effects, Expressions 
+
+📸 Preview
+
+Screenshots and video previews of the experiments can be found inside their respective folders.
 
 Blender – Python Scripting, Physics Simulation, Motion Tracking
