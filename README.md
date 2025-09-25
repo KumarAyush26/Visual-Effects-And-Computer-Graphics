@@ -2,7 +2,8 @@
 
 🎮 Group 6 – Unity & Blender Experiments
 
-This repository contains a collection of interactive simulations, visual effects, and game development experiments created in Unity and Blender by Group 6. The projects showcase particle systems, physics simulations, motion tracking, and environment effects as part of our academic and personal development work.
+This repository showcases the Visual Effects (VFX) and Computer Graphics experiments I have completed as part of my learning journey in Unity and Blender.
+Each experiment explores different techniques for creating realistic simulations, dynamic particles, and immersive visual effects.
 
 Group Members:
 
@@ -16,74 +17,78 @@ Aditya Sarasvathi 22BCG10163
 
 MEDHANSH RAJESH JAIN 23BCG10084
 
-Projects Overview
-1️⃣ Blender Experiments
+📂 Experiments Overview
+Experiment No.	Title	Software Used	Key Techniques
+6	Adding Foliage, Fire, and Smoke with Paint Effects	Unity	Paint effects, particle systems
+7	Creating Water, Smoke, and Sparks with nParticles	Unity	nParticle system, fluid simulations
+8	Generating nParticle Swarms and Bubble Masses with Expressions	Unity	Expressions, swarm behaviors
+9	Simulating Semi-Rigid and Rigid Debris with Python	Blender	Python scripting, debris simulation
+10	Motion Tracking with MatchMover	Blender	Camera tracking, motion matching
 
-Rigid & Semi-Rigid Debris
+🔥 Experiment Details
+6️⃣ Adding Foliage, Fire, and Smoke with Paint Effects (Unity)
 
-Simulated falling debris using Rigid Body and Soft Body physics.
+In this experiment, I used Unity’s Paint Effects tools to create a dynamic scene with foliage, fire, and smoke.
 
-Semi-rigid pieces wobble upon collision for realism.
+Foliage: Painted grass, trees, and shrubs across the terrain using paint effects.
 
-Motion Tracking
+Fire & Smoke: Integrated particle systems to simulate burning fire and realistic smoke plumes.
 
-Tracked camera movement in live footage.
+Outcome: A rich, interactive environment with natural vegetation and live fire effects.
 
-Integrated virtual 3D objects into real-world scenes.
+7️⃣ Creating Water, Smoke, and Sparks with nParticles (Unity)
 
-Particle Simulations
+This experiment focused on simulating fluid and particle dynamics using Unity’s nParticles.
 
-nParticle swarms and bubble masses using Python scripts.
+Created realistic flowing water using particle emitters and shaders.
 
-Customizable behavior with velocity expressions and target-based attraction.
+Designed smoke trails and spark bursts to replicate natural motion.
 
-2️⃣ Unity Experiments
+Controlled particle lifetime, speed, and collision for believable effects.
 
-nParticle Swarms and Bubble Masses
+8️⃣ Generating nParticle Swarms and Bubble Masses with Expressions (Unity)
 
-Swarming particles move toward a target.
+This experiment explored custom particle behavior using expressions.
 
-Bubble masses simulate buoyancy and size variation.
+Built swarming nParticles that move collectively like a school of fish or flock of birds.
 
-Adding Foliage, Fire, and Smoke with Paint Effects
+Added bubble masses with rising, floating motion using dynamic expressions.
 
-Painted trees, grass, and terrain details for immersive environments.
+Tweaked velocity, randomness, and clustering to achieve organic movement.
 
-Particle systems for dynamic fire and smoke effects.
+9️⃣ Simulating Semi-Rigid and Rigid Debris with Python (Blender)
 
-Key Features Across Projects
+This experiment used Blender’s physics engine with Python scripting to simulate debris.
 
-Realistic physics simulations using Blender Rigid/Soft Body systems.
+Created objects with rigid body physics to simulate breaking and shattering.
 
-Interactive particle systems in Unity with expressions and scripts.
+Used semi-rigid constraints for partially flexible debris.
 
-Environment design with terrain, foliage, fire, and smoke.
+Automated debris generation and motion using Python for precise control.
 
-Motion tracking for integrating 3D objects into live video footage.
+🔟 Motion Tracking with MatchMover (Blender)
 
-Projects structured for easy exploration and modification.
+This experiment involved camera motion tracking to integrate 3D elements into real-world footage.
 
-Getting Started
+Used MatchMover (integrated with Blender) to track camera motion from live video.
+
+Placed 3D objects seamlessly in the tracked scene.
+
+Adjusted camera parameters and keyframes for a stable match.
+
+🚀 How to Use
 
 Clone the repository:
 
-git clone https://github.com/yourusername/YourRepoName.git
+git clone https://github.com/KumarAyush26/Visual-Effects-And-Computer-Graphics.git
 
 
-Open individual project folders in Unity or Blender.
+Open the respective Unity or Blender project folders to explore each experiment.
 
-Explore scripts, particle systems, and scene setups.
+Follow the included instructions or project files to view the simulations.
 
-Folder Structure (Example)
-/Blender
-    9. Simulating Semi-Rigid and Rigid Debris with Python. 
-    10. Motion Tracking with matchmover.
-/Unity
-    6. Adding Foliage, Fire, and Smoke with paint effects. 
-    7. Creating water, smoke and sparks with nParticles. 
-    8. Generating nParticle swams and Bubble masses with expressions.
-README.md
+🛠️ Software & Tools
 
-Outcome
+Unity 3D – Particle Systems, Paint Effects, Expressions
 
-This repository showcases Group 6’s collaborative work in visual effects, and interactive simulations, demonstrating practical skills in Unity, Blender, Python scripting, and real-time physics/particle systems.
+Blender – Python Scripting, Physics Simulation, Motion Tracking
