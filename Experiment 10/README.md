@@ -46,6 +46,3 @@ Result
 
 The final output shows 3D elements correctly anchored to the live-action footage, moving naturally with the tracked camera.
 
-Result
-
-The final output shows 3D elements correctly anchored to the live-action footage, moving naturally with the tracked camera.
