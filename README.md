@@ -76,16 +76,14 @@ Explore scripts, particle systems, and scene setups.
 
 Folder Structure (Example)
 /Blender
-    /Rigid_Debris
-    /SemiRigid_Debris
-    /Motion_Tracking
-    /nParticle_Swarms
+    9. Simulating Semi-Rigid and Rigid Debris with Python. 
+    10. Motion Tracking with matchmover.
 /Unity
-    /nParticle_Swarms_Bubbles
-    /Foliage_Fire_Smoke
-    /2D_Running_Game
+    6. Adding Foliage, Fire, and Smoke with paint effects. 
+    7. Creating water, smoke and sparks with nParticles. 
+    8. Generating nParticle swams and Bubble masses with expressions.
 README.md
 
 Outcome
 
-This repository showcases Group 6’s collaborative work in combining game development, visual effects, and interactive simulations, demonstrating practical skills in Unity, Blender, Python scripting, and real-time physics/particle systems.
+This repository showcases Group 6’s collaborative work in visual effects, and interactive simulations, demonstrating practical skills in Unity, Blender, Python scripting, and real-time physics/particle systems.
